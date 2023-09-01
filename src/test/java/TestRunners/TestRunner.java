@@ -7,7 +7,7 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		features = "/Users/dharmateja/eclipse-workspace/training/BDDCucumberTwo/src/test/java/Features/Feature.feature", 
+		features = "/home/coder/project/workspace/src/test/java/Features/Feature.feature", 
 		glue = "StepDefinations", 
 		dryRun = true,
 		monochrome = true,
